@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\78207\Desktop\猫捉老鼠\main.cpp(463,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\78207\Desktop\猫捉老鼠\main.cpp(479,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 42 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  猫捉老鼠.vcxproj -> C:\Users\78207\Desktop\猫捉老鼠\x64\Release\猫捉老鼠.exe
